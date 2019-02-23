@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\bin\Debug\Disconnected_Urun_Kategori_Listele.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\bin\Debug\Disconnected_Urun_Kategori_Listele.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\bin\Debug\Disconnected_Urun_Kategori_Listele.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Disconnected_Urun_Kategori_Listele\obj\Debug\Disconnected_Urun_Kategori_Listele.pdb
